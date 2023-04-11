@@ -11,4 +11,4 @@
 |mobilenet_v2|텐서플로(전이학습 미세조정)|val accurancy 0.9179|라벨 6개, Multi-class 분류
 |mobilenet_v3_s|텐서플로(전이학습 미세조정)|val accurancy 0.8447|라벨 15개, Multi-class 분류
 
-Multi-label은 정확도가 너무  높일 방법을 더 찾아봐야할듯..
+Multi-label은 정확도가 너무 낮아서 높일 방법을 더 찾아봐야할듯..
