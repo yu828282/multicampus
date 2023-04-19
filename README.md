@@ -11,7 +11,7 @@
 |mobilenet_v2|텐서플로(전이학습)|val accurancy 0.9179|라벨 6개, 단일 분류
 |mobilenet_v3_s|텐서플로(전이학습)|val accurancy 0.8447|라벨 15개, 단일 분류
 |mobilenet_v2|텐서플로(전이학습)|val accurancy 0.9070|라벨 15개, 단일 분류
-|VGG16|케라(전이학습)|val_accuracy 0.5185|라벨 6개, 다중 분류 
+|VGG16|케라스(전이학습)|val_accuracy 0.5185|라벨 7개, 다중 분류 
 
 
 다중분류는 정확도가 너무 낮아져서 높일 방법을 더 찾아봐야할듯..
