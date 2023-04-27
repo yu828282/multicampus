@@ -14,7 +14,7 @@
 |resnet50|파이토치(전이학습)|val accurancy 0.8867|라벨 15개, 단일 분류
 |VGG16|파이토치(전이학습)|val accurancy 0.8956|라벨 15개, 단일 분류
 |resnet18|파이토치(전이학습)|val accurancy 0.8570 |라벨 15개, 단일 분류
-|resnet34|파이토치(전이학습)|val accurancy 0.879125 |라벨 15개, 단일 분류
+|resnet34|파이토치(전이학습)|val accurancy 0.8791 |라벨 15개, 단일 분류
 |VGG16|케라스(전이학습)|val_accuracy 0.5185|라벨 7개, 다중 분류 
 
 
